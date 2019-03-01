@@ -1,0 +1,12 @@
+.Board {
+    width: 50vh;
+    height: 50vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.position {
+    width: 33.3%;
+    border: 1px solid black;
+}
+
